@@ -1,0 +1,17 @@
+-- 1. Deskripsi tabel `detail_transaksi`
+DESCRIBE `detail_transaksi`;
+
+-- 2. Deskripsi tabel `member`
+DESCRIBE `member`;
+
+-- 3. Deskripsi tabel `outlet`
+DESCRIBE `outlet`;
+
+-- 4. Deskripsi tabel `paket`
+DESCRIBE `paket`;
+
+-- 5. Deskripsi tabel `transaksi`
+DESCRIBE `transaksi`;
+
+-- 6. Deskripsi tabel `user`
+DESCRIBE `user`;
